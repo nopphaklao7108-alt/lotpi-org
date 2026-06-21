@@ -1,16 +1,17 @@
 ACCEPTED_CURRENCIES = "LOT"
+
 CURRENCIES = [
   {
-    code = "LOT G49",
-    issuer = "GCA6H55FPQO3KOZLJPR2LYD7PMTOPQPQOLG7S46GFGEG6Q7WU4R4VD7F",
-    name = "Land Of gold Trending",
-    desc = "เหรียญ Utility ของ Golden49 สร้างโดย CEO นพ LOT เพื่อระบบการเงินประชาชน",
-    logo = "https://golden49.com/logo/lot-g49.png",
+    code = "LOTG49",
+    issuer = "GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR",
+    name = "Land Of Gold Trending Pi",
+    desc = "โรงกษาปณ์ชุมชน Utility ของ Golden49",
+    logo = "https://lotpi.org/logo.png",
     fixed_number = 49000000
   }
 ]
 
-SIGNING_KEY = "GCA6H55FPQO3KOZLJPR2LYD7PMTOPQPQOLG7S46GFGEG6Q7WU4R4VD7F"
+SIGNING_KEY = "GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR"
 VERSION = "2.0.0"
 NETWORK_PASSPHRASE = "Pi Network"
-HOMEPAGE = "https://golden49.com"
+HOMEPAGE = "https://lotpi.org"
