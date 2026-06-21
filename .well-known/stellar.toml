@@ -1,7 +1,7 @@
-NETWORK_PASSPHRASE=Public Global Stellar Network ; v1
-ACCEPTS_AUTH=true
-ACCEPTS_DIRECT=true
-CORS_ALLOWED_ORIGINS=https://*
+NETWORK_PASSPHRASE=Public Global Stellar Network
 HORIZON_URL=https://horizon.stellar.org
-ORG_NAME=โรงกษาปณ์ชุมชน lotpi.org
-ORG_LOGO=https://nopphaklao7108-alt.github.io/lotpi-org/logo.png
+CURRENCY_CODE=LOTG49
+ORG_NAME=LOT Pi Holding Universal
+ORG_LOGO=https://lotpi.org/logo.png
+ISSUER=GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR
+HOME_DOMAIN=lotpi.org
