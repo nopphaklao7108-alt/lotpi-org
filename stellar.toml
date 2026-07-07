@@ -1,11 +1,6 @@
-VERSION="2.0.0"
-NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-HORIZON_URL="https://horizon.stellar.org"
-
-DOCUMENTATION="https://lotg49.com"
 ORG_NAME="LOT Pi Holding Universal"
-ORG_URL="https://lotg49.com"
-ORG_LOGO="https://lotg49.com/logo.png"
+ORG_URL="https://nopphakao7108-alt.github.io/lotpi-org/"
+ORG_LOGO="https://nopphakao7108-alt.github.io/lotpi-org/logo.png"
 ORG_DESCRIPTION="LOT Pi Holding ออกสินทรัพย์ดิจิทัล LOTG49 หนุนหลังด้วยทองคำ 1 กรัม"
 
 [[CURRENCIES]]
@@ -15,6 +10,6 @@ anchor_quotes="true"
 display_decimals=2
 name="LOTG49 Gold Token"
 desc="1 LOTG49 = สิทธิ์แลกเปลี่ยนทองคำ 1 กรัม. Backed 1:1 by Gold. For exchange only."
-image="https://lotg49.com/logo.png"
+image="https://nopphakao7108-alt.github.io/lotpi-org/logo.png"
 is_asset_anchored=true
-asset_anchor="https://lotg49.com"
+asset_anchor="https://nopphakao7108-alt.github.io/lotpi-org/"
