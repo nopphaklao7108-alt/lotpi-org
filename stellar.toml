@@ -1,17 +1,18 @@
-ACCEPTED_CURRENCIES = "LOT"
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+HORIZON_URL="https://horizon.stellar.org"
 
-CURRENCIES = [
-  {
-    code = "LOTG49",
-    issuer = "GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR",
-    name = "Land Of Gold Trending Pi",
-    desc = "โรงกษาปณ์ชุมชน Utility ของ Golden49",
-    logo = "https://lotpi.org/logo.png",
-    fixed_number = 49000000
-  }
-]
+[[CURRENCIES]]
+code="LOTG49"
+issuer="GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR"
+anchor_quotes="true"
+display_decimals=2
+name="LOTG49 Gold Token"
+desc="1 LOTG49 = สิทธิ์แลกทองคำแท้ 1 กรัม. ออกโดย CEO GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR, LOT Pi Holding Universal"
+image="https://lotg49.com/logo.png"
+is_asset_anchored=true
+asset_anchor="https://lotg49.github.io"
 
-SIGNING_KEY = "GAOI54SELTEVNL6APGH7ZILQHASUQDYDM4NOCARUDYFAJ545Q3NOVRHR"
-VERSION = "2.0.0"
-NETWORK_PASSPHRASE = "Pi Network"
-HOMEPAGE = "https://lotpi.org"
+
+
+
